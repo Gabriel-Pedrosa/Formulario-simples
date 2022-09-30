@@ -1,0 +1,60 @@
+fieldset {
+    padding: 30px;
+    position: absolute;
+    border-radius: 20px;
+    top: 200px;
+    left: 40%;
+    height: 40%;
+    color: white;
+    border: 3px, solid;
+    background-color: #123443;
+
+}
+
+.botao {
+    background-color: #1d9ec6;
+    color: white;
+    font-size: 20px;
+    padding: 8%;
+    border-radius: 12px;
+
+    width: 100%;
+    cursor: pointer;
+
+}
+
+#legenda {
+    background-color: #1d9ec6;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    color: white;
+
+}
+
+body {
+    background-image: linear-gradient(to right, rgba(0, 51, 80, 0.826), rgba(3, 81, 117, 0.883));
+
+}
+
+#data {
+    border-radius: 5px;
+    padding: 1%;
+
+}
+
+#nome {
+    border-radius: 5px;
+    padding: 1%;
+}
+
+#email {
+    border-radius: 5px;
+    padding: 1%;
+}
+
+#senha {
+
+    border-radius: 5px;
+    padding: 1%;
+}
